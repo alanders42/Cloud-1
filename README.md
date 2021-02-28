@@ -2,7 +2,7 @@
 
 Introduction to Cloud infrastructure using the Google Cloud Platform.
 
-> The site will be hosted at http://35.236.14.86//. The site will only be up during evalutaion.
+> The site will be hosted at http://35.236.14.85//. The site will only be up during evalutaion.
 
 ## Requirements:
 - 2 instances have to be running at all times.
